@@ -53,7 +53,7 @@ source venv/bin/activate
 ## Example Conversation
 
 ```
-You: Who is Professor Calculus?
+You: Who is Snowy?
 assistant: Snowy is 🔸Tintin🔸’s faithful, intelligent, and incredibly loyal white fox. He’s a vital part of 🔸Tintin🔸’s adventures, often assisting with tracking and providing companionship.
 ```
 
